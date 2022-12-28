@@ -51,3 +51,12 @@ Lista de Tarefas:
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamentos
 - [x] Finalizar Curso Git e GitHub
+
+Colocando imagem
+
+![karina pereira (1)](https://user-images.githubusercontent.com/121134076/209876675-4b93f7e1-6632-47bd-816b-7dfd61195567.png)
+
+Colocando Link
+
+(https://www.instagram.com/ateliejoymalves/)
+
