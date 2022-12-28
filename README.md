@@ -2,6 +2,6 @@
 
 Testando linguagem Markdown com o Curso em Vídeo
 
-**Negrito**  Abre dois asteristicos e  fecha dois asteristicos 
+**Negrito**  Abre dois asterísticos e fecha dois asterísticos
 
-*Italico*  Abre um asteristico e fecha um asteristico
+*Italico*  Abre um asterísticos e fecha um asterístico
