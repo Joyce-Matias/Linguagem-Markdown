@@ -33,12 +33,20 @@ Podemos misturar configurações
 
 __*Negrito e Itálico*__ Abre dois underline e um asterístico e fecha um asterístico e dois underline
 
-Lista numerada
-
+Lista numerada:
 1. Teste
-2. Teste 2
-5. Teste 3
-6.    Teste  4
-   1Teste
-   2 Teste
-   3 Teste 
+2. Teste 2 
+6. Teste 3
+7.    Teste  4
+   
+Lista demarcada:
+* Teste
+* Teste
+* Teste
+* Teste
+
+Lista de Tarefas:
+- [ ] Criar a página principaç
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamentos
