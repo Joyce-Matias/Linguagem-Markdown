@@ -32,3 +32,13 @@ Linha em baixo para dividir  você pode colocar --- ou ***
 Podemos misturar configurações
 
 __*Negrito e Itálico*__ Abre dois underline e um asterístico e fecha um asterístico e dois underline
+
+Lista numerada
+
+1. Teste
+2. Teste 2
+5. Teste 3
+6.    Teste  4
+   1Teste
+   2 Teste
+   3 Teste 
