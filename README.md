@@ -50,3 +50,4 @@ Lista de Tarefas:
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamentos
+- [x] Finalizar Curso Git e GitHub
