@@ -17,3 +17,9 @@ Duas # título nível 2
 ### Título
 Três # título nível 3
 
+Linha em baixo para dividir  você pode colocar --- ou ***
+
+---
+
+***
+
